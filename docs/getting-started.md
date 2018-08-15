@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hey, are you ready to start your first task on Github?
+
+Remember to follow as instructed.
