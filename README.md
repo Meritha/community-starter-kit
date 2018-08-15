@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot App is here to welcome you to Github and help you ease into the workflow, every step of the way!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Assign Tasks for Familiarity
+- Notify You of Errors with Explanation
+- Built to Cover all Essential Components of the Github Workflow
 
 ## Getting started
 
