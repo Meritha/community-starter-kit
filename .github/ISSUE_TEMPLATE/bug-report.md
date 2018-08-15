@@ -1,0 +1,9 @@
+# Bug Report
+
+## Issue:
+
+- DESCRIPTION OF BUG PLACEHOLDER
+
+## Solution Suggested:
+
+- DESCRIPTION OF SOLUTION PLACEHOLDER
